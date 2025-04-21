@@ -25,7 +25,7 @@ Clone the repository or download the source files:
 Clone it using git:
 
 
-git clone https://github.com/yourusername/ytvideodownloader.git
+git clone https://github.com/blanc86/ytvideodownloader.git
 cd ytvideodownloader
 Alternatively, if you downloaded the project directly, navigate to the project folder.
 

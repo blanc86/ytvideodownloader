@@ -14,6 +14,7 @@ A simple Python + PyQt5 GUI tool to download YouTube, Instagram and Reddit video
 Make sure you have **Python 3.7+** installed.
 
 Install ffmpeg-release-essentials.zip from this link: https://www.gyan.dev/ffmpeg/builds/ under release builds
+
 Install the required dependencies:
 
 

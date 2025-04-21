@@ -15,6 +15,7 @@ Make sure you have **Python 3.7+** installed.
 
 Install the required dependencies:
 
+```bash
 pip install PyQt5 yt-dlp
 
 
@@ -33,7 +34,7 @@ Run the Python script:
 You can run the downloader using this command in your terminal:
 
 
-python yt_gui_downloader.py
+python main.py
 Use the GUI:
 
 Paste a YouTube video URL in the input field.

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+*.mp4
+*.webm
+yt_gui_downloader.py
+app.py
+claudetest.py

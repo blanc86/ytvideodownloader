@@ -15,7 +15,6 @@ Make sure you have **Python 3.7+** installed.
 
 Install the required dependencies:
 
-```bash
 pip install PyQt5 yt-dlp
 
 

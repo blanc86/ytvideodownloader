@@ -13,9 +13,9 @@ A simple Python + PyQt5 GUI tool to download YouTube videos in Full HD with audi
 
 Make sure you have **Python 3.7+** installed.
 
-```Install the required dependencies:
+Install the required dependencies:
 
-bash
+```bash
 pip install PyQt5 yt-dlp
 
 

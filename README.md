@@ -1,6 +1,6 @@
-# YouTube Video Downloader 🎥
+# YouTube, Instagram and Reddit Video Downloader 🎥
 
-A simple Python + PyQt5 GUI tool to download YouTube videos in Full HD with audio.
+A simple Python + PyQt5 GUI tool to download YouTube, Instagram and Reddit videos in Full HD with audio.
 
 ## Features
 - Downloads highest available resolution (up to 1080p)
